@@ -93,6 +93,7 @@ teams:
       - klueska
       - marquiz
       - zvonkok
+      - cdesiniotis
   - name: wg-artifacts-leads
     displayName: Working Group Artifacts
     maintainers:
